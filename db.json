@@ -1,0 +1,598 @@
+{
+  "getAllCoursesV2":[
+    {
+       "skills":[
+          {
+             "name":"AR"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"Mixed Reality"
+          },
+          {
+             "name":"3D Graphics"
+          },
+          {
+             "name":"3D Programming"
+          },
+          {
+             "name":"Data Structures"
+          },
+          {
+             "name":"Animation"
+          },
+          {
+             "name":"AR Kit"
+          },
+          {
+             "name":"AR Core"
+          },
+          {
+             "name":"3D Math"
+          },
+          {
+             "name":"Physics"
+          },
+          {
+             "name":"HatchXR"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":true,
+       "pastEnrolled":0,
+       "price":11000,
+       "discountedPrice":8999,
+       "_id":"5ccca27af468823b0fe229d5",
+       "name":"Augmented Reality (AR) Development",
+       "category":{
+          "title":"Mixed Reality"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1556914808054.jpg",
+       "minGrade":9,
+       "maxGrade":12,
+       "urlSlug":"intro-to-augmented-reality-senior-at-campk-12",
+       "totalHours":12,
+       "createdAt":"2019-05-03T20:20:10.656Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"Logical Programming"
+          },
+          {
+             "name":"MIT Scratch"
+          },
+          {
+             "name":"Game Design"
+          },
+          {
+             "name":"Game Development"
+          },
+          {
+             "name":"Animation"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":3400,
+       "price":9000,
+       "discountedPrice":7999,
+       "_id":"5cd4017dd14ba274c4ad57b0",
+       "name":" Logical Programming for Games",
+       "category":{
+          "title":"Programming Fundamentals"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1557397880060.jpg",
+       "minGrade":1,
+       "maxGrade":4,
+       "totalHours":12,
+       "urlSlug":"logical-programming-for-games-at-campk-12",
+       "createdAt":"2019-05-09T10:31:25.968Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"Logical Programming"
+          },
+          {
+             "name":"MIT Scratch"
+          },
+          {
+             "name":"Music Mixing"
+          },
+          {
+             "name":"Digital Art"
+          },
+          {
+             "name":"2D Graphics"
+          },
+          {
+             "name":"Animation"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":3900,
+       "price":9000,
+       "discountedPrice":7999,
+       "_id":"5cd404b5d14ba274c4ad57e4",
+       "name":"Coding for Art & Music",
+       "category":{
+          "title":"Programming Fundamentals"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1557398705196.jpg",
+       "minGrade":1,
+       "maxGrade":4,
+       "totalHours":12,
+       "urlSlug":"coding-for-art-music-at-campk-12",
+       "createdAt":"2019-05-09T10:45:09.718Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"Android"
+          },
+          {
+             "name":"UI Design"
+          },
+          {
+             "name":"App Development"
+          },
+          {
+             "name":"Game Development"
+          },
+          {
+             "name":"MIT AppInventor"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":7100,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5cd7d0c671ba981115fb2a58",
+       "name":"Android Development: Publish a Mobile App",
+       "category":{
+          "title":"Mobile Apps"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1544511633692.png",
+       "minGrade":5,
+       "maxGrade":8,
+       "totalHours":12,
+       "urlSlug":"android-app-development-at-campk-12",
+       "createdAt":"2019-02-12T07:52:38.717Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"VR"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"Mixed Reality"
+          },
+          {
+             "name":"3D Math"
+          },
+          {
+             "name":"Physics"
+          },
+          {
+             "name":"3D Programming"
+          },
+          {
+             "name":"Game Development"
+          },
+          {
+             "name":"Animation"
+          },
+          {
+             "name":"HatchXR"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":4300,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5cd7d2e471ba981115fb2a72",
+       "name":"3D Coding & VR Game Development",
+       "category":{
+          "title":"Mixed Reality"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1549374810914.jpg",
+       "minGrade":5,
+       "totalHours":12,
+       "maxGrade":8,
+       "urlSlug":"virtual-reality-at-campk-12",
+       "createdAt":"2019-02-11T08:01:40.858Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"AI"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"NLP"
+          },
+          {
+             "name":"Machine Learning"
+          },
+          {
+             "name":"Web Development"
+          },
+          {
+             "name":"Text Classification"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":3400,
+       "price":12000,
+       "discountedPrice":9999,
+       "_id":"5cd7d55571ba981115fb2a8c",
+       "name":"AI & Machine Learning: Code Intelligent Bots",
+       "category":{
+          "title":"Artificial Intelligence"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1544512554376.jpg",
+       "minGrade":5,
+       "totalHours":12,
+       "maxGrade":8,
+       "urlSlug":"ai-machine-learning-at-campk-12",
+       "createdAt":"2019-02-10T08:12:05.776Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"HTML"
+          },
+          {
+             "name":"CSS"
+          },
+          {
+             "name":"UI Design"
+          },
+          {
+             "name":"Prototyping"
+          },
+          {
+             "name":"Theme Design"
+          },
+          {
+             "name":"Web Development"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":3900,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5cd7d70c71ba981115fb2aa6",
+       "name":"Web Development with HTML, CSS, JS",
+       "category":{
+          "title":"Web Development"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1556913530692.jpg",
+       "minGrade":5,
+       "maxGrade":8,
+       "totalHours":12,
+       "urlSlug":"intro-to-web-development-at-campk-12",
+       "createdAt":"2019-02-09T08:19:24.101Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"HTML"
+          },
+          {
+             "name":"CSS"
+          },
+          {
+             "name":"UI Design"
+          },
+          {
+             "name":"Prototyping"
+          },
+          {
+             "name":"Theme Design"
+          },
+          {
+             "name":"Web Development"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":2900,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5cd7dfb582a769beaa02f98f",
+       "name":"Web Development with HTML, CSS, JS",
+       "category":{
+          "title":"Web Development"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1556913530692.jpg",
+       "minGrade":9,
+       "maxGrade":12,
+       "totalHours":12,
+       "urlSlug":"intro-to-web-development-senior-at-campk-12",
+       "createdAt":"2019-02-09T08:19:24.101Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"AR"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"Mixed Reality"
+          },
+          {
+             "name":"3D Graphics"
+          },
+          {
+             "name":"3D Programming"
+          },
+          {
+             "name":"Data Structures"
+          },
+          {
+             "name":"Animation"
+          },
+          {
+             "name":"AR Kit"
+          },
+          {
+             "name":"AR Core"
+          },
+          {
+             "name":"3D Math"
+          },
+          {
+             "name":"Physics"
+          },
+          {
+             "name":"HatchXR"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":true,
+       "pastEnrolled":0,
+       "price":11000,
+       "discountedPrice":8999,
+       "_id":"5cf61f092f7ddbb18c23d971",
+       "name":"Augmented Reality (AR) Development",
+       "category":{
+          "title":"Mixed Reality"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1556914455170.jpg",
+       "minGrade":5,
+       "maxGrade":8,
+       "totalHours":12,
+       "urlSlug":"intro-to-augmented-reality-at-campk-12",
+       "createdAt":"2019-05-12T08:29:31.404Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"Logical Programming"
+          },
+          {
+             "name":"MIT Scratch"
+          },
+          {
+             "name":"Animation"
+          },
+          {
+             "name":"2D Graphics"
+          },
+          {
+             "name":"Storytelling"
+          },
+          {
+             "name":"Storyboarding"
+          },
+          {
+             "name":"Character Design"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":4100,
+       "price":9000,
+       "discountedPrice":7999,
+       "_id":"5d0e1d10a98c2fbb42280d4d",
+       "name":"Animation & Storytelling with Code",
+       "category":{
+          "title":"Programming Fundamentals"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1557398257173.jpg",
+       "minGrade":1,
+       "maxGrade":4,
+       "totalHours":12,
+       "urlSlug":"animation-storytelling-with-code-at-campk-12",
+       "createdAt":"2019-06-22T10:37:41.065Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"AI"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"NLP"
+          },
+          {
+             "name":"Machine Learning"
+          },
+          {
+             "name":"Web Development"
+          },
+          {
+             "name":"Text Classification"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":5600,
+       "price":12000,
+       "discountedPrice":9999,
+       "_id":"5d1ca6fbcad114e2826030d4",
+       "name":"AI & Machine Learning: Code Intelligent Bots",
+       "category":{
+          "title":"Artificial Intelligence"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1544512554376.jpg",
+       "minGrade":9,
+       "maxGrade":12,
+       "totalHours":12,
+       "urlSlug":"ai-machine-learning-senior-at-campk-12",
+       "createdAt":"2019-07-03T08:12:05.776Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"Android"
+          },
+          {
+             "name":"UI Design"
+          },
+          {
+             "name":"App Development"
+          },
+          {
+             "name":"Game Development"
+          },
+          {
+             "name":"MIT AppInventor"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":4100,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5d1caa3ccad114e2826030d5",
+       "name":"Android Development: Publish a Mobile App",
+       "category":{
+          "title":"Mobile Apps"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1544511633692.png",
+       "minGrade":9,
+       "maxGrade":12,
+       "totalHours":12,
+       "urlSlug":"android-app-development-senior",
+       "createdAt":"2019-02-12T07:52:38.717Z"
+    },
+    {
+       "skills":[
+          {
+             "name":"VR"
+          },
+          {
+             "name":"JavaScript"
+          },
+          {
+             "name":"Mixed Reality"
+          },
+          {
+             "name":"3D Math"
+          },
+          {
+             "name":"3D Programming"
+          },
+          {
+             "name":"Game Development"
+          },
+          {
+             "name":"HatchXR"
+          },
+          {
+             "name":"Animation"
+          },
+          {
+             "name":"Physics"
+          }
+       ],
+       "prerequisite":[
+          "None"
+       ],
+       "new":false,
+       "pastEnrolled":4700,
+       "price":10000,
+       "discountedPrice":8999,
+       "_id":"5d1cabc5cad114e2826030d6",
+       "name":"3D Coding & VR Game Development",
+       "category":{
+          "title":"Mixed Reality"
+       },
+       "difficulty":"1",
+       "coinsEarn":1000,
+       "totalHours":12,
+       "banner":"https://ck12live.s3.amazonaws.com/photos/1556909692260.jpg",
+       "minGrade":9,
+       "maxGrade":12,
+       "urlSlug":"intro-to-virtual-reality-senior",
+       "createdAt":"2019-07-03T18:54:55.995Z"
+    }
+ ]
+}
