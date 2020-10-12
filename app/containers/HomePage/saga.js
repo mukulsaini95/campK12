@@ -5,7 +5,7 @@ import * as CONSTANTS from './constants';
 // import { getHeaders, errorHandler} from "../../utils/commonUtils";
 
 
-let url = "http://localhost:4000/getAllCoursesV2";
+let url = "https://5f58a1948040620016ab83d0.mockapi.io/api/v1/getAllCourses";
 
 export function* getTodoListHandlerAsync() {
 
